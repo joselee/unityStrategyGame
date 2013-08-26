@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MouseCursor.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Projectors/Sources/Projector Additive Shader.shader" Line="21" Column="30" />
+      <File FileName="Assets/Scripts/DestroyParentObject.cs" Line="7" Column="10" />
+      <File FileName="Assets/Scripts/WorldCamera.cs" Line="20" Column="34" />
+      <File FileName="Assets/Scripts/MouseCursor.cs" Line="351" Column="2" />
+      <File FileName="Assets/Scripts/Unit.cs" Line="21" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
